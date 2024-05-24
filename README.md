@@ -2,5 +2,5 @@
 
 ## A bit about me
   1. I am a father of two amazing children
-    2. Almost three. My wife is 39 weeks pregnant.
-  3. I really enjoy programming, game development, and playing a plethora of board/card/video games.
+     - Almost three. My wife is 39 weeks pregnant.
+  2. I really enjoy programming, game development, and playing a plethora of board/card/video games.
